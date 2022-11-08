@@ -1,5 +1,5 @@
 # EFI-Hackintosh-Lenovo-Ideapad-330-81FE
-EFI OpenCore 0.8.5 para Hackintosh Monterey e Ventura em Lenovo Ideapad 330 81FE
+EFI OpenCore 0.8.6 para Hackintosh Monterey e Ventura em Lenovo Ideapad 330 81FE
 
 # Especificações do Hardware
 
