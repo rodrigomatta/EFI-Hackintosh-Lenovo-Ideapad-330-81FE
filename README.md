@@ -1,8 +1,8 @@
 # EFI-Hackintosh-Lenovo-Ideapad-330-81FE
 
-EFI OpenCore 0.9.1 for Lenovo IdeaPad 330 81FE 
+EFI OpenCore 0.9.2 for Lenovo IdeaPad 330 81FE 
 
-# Supports Hackintosh Monterey version 12.3.1 up to Ventura 13.3
+# Supports Hackintosh Monterey version 12.3.1 up to Ventura 13.3.1
 
 # Hardware Specifications
 
