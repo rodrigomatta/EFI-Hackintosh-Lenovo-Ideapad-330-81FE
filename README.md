@@ -11,7 +11,7 @@ Notebook: Lenovo IdeaPad 330 81FE
 CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz (Kaby Lake)
 GPU: Intel Corporation UHD Graphics 620
 SSD: 1 Unidade de 240GB XRayDisk
-RAM: 20GB (4GB soldada) 2133MHz DDR4
+RAM: 20GB (4GB soldered) 2133MHz DDR4
 Display: 15,6" 1366x768p LCD
 Wi-Fi/Bluetooth: Intel Dual Band Wireless-AC 3165
 Ethernet: Realtek RTL8111
