@@ -1,8 +1,8 @@
 # EFI-Hackintosh-Lenovo-Ideapad-330-81FE
 
-EFI OpenCore 0.9.2 for Lenovo IdeaPad 330 81FE 
+EFI OpenCore 0.9.3 for Lenovo IdeaPad 330 81FE 
 
-# Supports Hackintosh Monterey version 12.3.1 up to Ventura 13.3.1
+# Supports Hackintosh Monterey version 12.3.1 up to Ventura 13.5 Beta
 
 # Hardware Specifications
 
@@ -10,7 +10,7 @@ EFI OpenCore 0.9.2 for Lenovo IdeaPad 330 81FE
 Notebook: Lenovo IdeaPad 330 81FE
 CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz (Kaby Lake)
 GPU: Intel Corporation UHD Graphics 620
-SSD: 1 Unidade de 240GB XRayDisk
+SSD: 1 Unidade de 1TB KingBank
 RAM: 20GB (4GB soldered) 2133MHz DDR4
 Display: 15,6" 1366x768p LCD
 Wi-Fi/Bluetooth: Intel Dual Band Wireless-AC 3165
@@ -21,7 +21,7 @@ Input: Keyboard PS2 e Synaptic TrackPad Model SYNA2B49
 
 # Comments
 ```bash
-prev-lang:kbd: variable was set to pt-BR:128
+prev-lang:kbd: variable was set to value pt-BR:128
 (Optional) Download battery driver for MacOS Lenovo: https://github.com/zhen-zen/YogaSMC
 (optional) Download Stats (macOS system monitor in your menu bar): https://github.com/exelban/stats
 ```
