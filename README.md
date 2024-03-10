@@ -1,8 +1,8 @@
 # EFI-Hackintosh-Lenovo-Ideapad-330-81FE
  
 - EFI for Notebook Lenovo IdeaPad 330 81FE \
-[![MacOS version](https://img.shields.io/badge/Monterey-12.7.1-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Ventura-13.6.2-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sonoma-14.2-informational.svg)](https://www.apple.com/macos) \
-[![OpenCore version](https://img.shields.io/badge/OpenCore-0.9.7-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
+[![MacOS version](https://img.shields.io/badge/Monterey-12.7.3-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Ventura-13.6.4-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sonoma-14.3.1-informational.svg)](https://www.apple.com/macos) \
+[![OpenCore version](https://img.shields.io/badge/OpenCore-0.9.9-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 
 ## This EFI Supports Hackintosh since Monterey version 12.3.1
 
@@ -21,7 +21,7 @@
 | Ethernet         | Realtek RTL8111                                      |
 | Audio            | Realtek ALC230                                       |
 | Input            | Keyboard PS2 e Synaptic TrackPad Model SYNA2B49      |                                  
-| OpenCore   	   | 0.9.7          		                          |
+| OpenCore   	   | 0.9.9          		                          |
 
 ## BIOS setup
 
